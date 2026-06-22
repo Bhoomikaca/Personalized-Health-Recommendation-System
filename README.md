@@ -21,3 +21,13 @@ A machine learning-powered healthcare web application that provides personalized
 - CSS
 - Machine Learning
 
+## Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### User Input
+![User Input](input%20page.png)
+
+### Recommendation Results
+![Recommendation Results](result%20page.png)
