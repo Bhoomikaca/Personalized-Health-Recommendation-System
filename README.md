@@ -24,7 +24,7 @@ A machine learning-powered healthcare web application that provides personalized
 ## Screenshots
 
 ### Home Page
-![Home Page](home.png)
+![Home Page](home%20page.png)
 
 ### User Input
 ![User Input](input%20page.png)
