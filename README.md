@@ -8,7 +8,8 @@ A machine learning-powered healthcare web application that provides personalized
 - Water intake estimation
 - Sleep optimization suggestions
 
-## Live Demo 🚀
+
+## Live Demo 
 
 🔗 [Health Recommendation System](https://health-recommendation-system-kkj8.onrender.com)
 
